@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
+
+.vid4 {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.content {
+  font-family: 'Sorts Mill Goudy', serif;
+  position: fixed;
+  top: 0;
+  color: #f1f1f1;
+  width: 20%;
+  padding: 20px;
+}
